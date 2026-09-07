@@ -1,2 +1,2 @@
 # messenger_bird
-hello world~! \(^_^)
+hello world \(^_^)
